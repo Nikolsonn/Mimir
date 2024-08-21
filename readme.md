@@ -16,3 +16,14 @@
 - **Searchable Database:** Quickly locate information with a powerful search function.
 - **Version Control:** Track changes and updates to documents, ensuring the repository stays current.
 - **Interactive Content:** Includes tutorials, code snippets, and examples to enhance the learning experience.
+
+## Potential projects, goals
+
+- Telegram bot diary.
+- Financial support with AI.
+- [Hexagonal 2048](https://github.com/Nikolsonn/Hexagonal-2048)
+- Automation from the scratch. Go though full development and testing cycle. CI/CD
+- Shoe factory Board-game simulation. "Backend" 
+- Create portfolio.
+- Improve Javascript knowledge, go though [Javascript](https://github.com/sudheerj/javascript-interview-questions) and [Course](https://www.testingjavascript.com)
+- Knowledge base for students, that gonna be created as a part of current repo. Based on [Docusaurus](https://docusaurus.io)
